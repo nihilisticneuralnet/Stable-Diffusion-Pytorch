@@ -1,3 +1,5 @@
+![Stable Diffusion](./images/sd.png)
+
 # Stable Diffusion - Pytorch
 
 Pytorch Implementation of the [Stable Diffusion](https://arxiv.org/abs/2112.10752) from scratch.
